@@ -21,3 +21,4 @@ Even though these are small projects, the point is to practice the methodologies
 
 Project plan: created from your Project Tracking software. Copy-paste the plan (or screenshot of) from your project tracking software into the repository.
 
+https://trello.com/b/ZnbGGesB/csci-3308-project
