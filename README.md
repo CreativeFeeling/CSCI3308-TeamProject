@@ -12,3 +12,12 @@ Motivation:
 
 Risks:
 
+Methodology: Which methodology you plan to follow, though it may change: Waterfall, iterfall, Agile, mash-up of … 
+
+Project Tracking software: Name of the software you will use Trello is most common Pivotal Tracker Basecamp GitHub Issues & Milestones
+
+Link to project tracking software: make sure instructor and TAs have access Be sure to continue to use this throughout the semester! 
+Even though these are small projects, the point is to practice the methodologies and tools used in industry! 
+
+Project plan: created from your Project Tracking software. Copy-paste the plan (or screenshot of) from your project tracking software into the repository.
+
