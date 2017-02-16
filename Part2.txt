@@ -1,0 +1,63 @@
+Part 2 – Agile stand-up meeting, client demo, retrospective
+
+Due date
+
+Week of February 27, 2017
+
+This is a 30-minute group interview grading meeting to be scheduled online. All group members must attend for credit. If you cannot find a time that works for everyone, you will need to email the instructor before the sign-up deadline to organize a different time.
+
+One member of the team must sign up online for this meeting on Moodle. When you attend, you must present a piece of paper as you enter the meeting with your team name and a list of all members on the team (first and last name). There is nothing to submit online for this part of the project.
+
+Standup
+
+The first five minutes only will be the standup (you need to stand-up for the standup meeting). The purpose is to experience an Agile format daily stand-up meeting. In industry we usually take turns answer the following three questions:
+
+What did you do yesterday?
+What are you doing today?
+Are there any obstacles stopping you from doing your tasks?
+We will modify this slightly to be “last week” and “next week” since you are probably not working on the project every day.
+
+What did you do last week?
+What are you doing next week?
+Are there any obstacles stopping you from doing your tasks?
+These questions are not asked during the meeting. Someone just starts:
+
+“Yesterday I worked on setting up the database so we can add the tables. Today I will be working on creating the tables we need. No obstacles.”
+
+Then the next person goes.
+
+Obstacles are specifically things that that someone else needs to finish as they are preventing you from completing the tasks currently assigned to you. Therefore, “I don’t know Ember.js, so I need to learn it” is not an obstacle because you can fix that. “I need the DBA to create the tables so I can start adding the data into the database” is an obstacle.
+
+If you are late or miss the standup (the first five minutes of your scheduled meeting), you will get a zero for the standup portion. You can still get credit for the demo and retro.
+
+Demo
+
+The objectives for the demo are:
+
+Prepare and present a quick end-of-Sprint demo to the client.
+Present using remote meeting software (commonly used if you work-from-home and to communicate with off-site clients).
+Participate in a team Agile Sprint Retrospective.
+The first 5-10 minutes is the end-of-sprint demo. Create a presentation slide-show covering what you have accomplished so far (just 1-2 slides listing/describing/ pictures of new features) and then do a demo of the features that currently work (hopefully you have something!). Do not show code or the database – pretend your client is not a technical person!
+
+Your whole group needs to be present in person for this demo. To experience what a remote session is like, you will create a http://join.me account and invite the grader to practice connecting a remote session. Join.me has a limit to the number of users logged in (free version) so only the TA and 1 or 2 team members will log in to Join.me. The rest of the group will look at one of their team’s screens.
+
+Retrospective
+
+Once you finish your sprint demo to the client, you will start the end-of-sprint retrospective. Read up on the techniques described here.
+
+Your goal will be to have a set of team rules to use moving forward of things that worked well and what you want to improve on. Some examples may be: all team members need to use Google Hangout to easily notify the rest of the team if they are stuck or issues that arise; if a team member is more than five minutes late for a meeting, they have to bring cookies to the next meeting.
+
+Either hang a post-it on the wall or write on the whiteboard/chalk board for each category:
+What went well (keep doing),
+What didn’t work (stop doing), and
+How we can improve (start doing).
+For the first five minutes each member will individually and quietly write out items for each category on post-it notes provided by the TAs (one note per post-it).
+When time is up, silently have everyone post up their note in the appropriate category.
+Now divide your team into two groups.
+One group will analyze the Keep Doing and Start Doing, and the other group will analyze the Stop Doing. The analysis should be to cluster similar themes together within a category.
+Each group reports on their findings for each category in order: Stop Doing, Keep Doing, Start Doing.
+Whole team makes decisions about how to make use of this information, what they may change moving forward.
+
+For example, you may come up with a decision that “When a team meeting is agreed upon, all members will show up on time.” or “We get into these heated arguments, if someone calls ‘time-out’ then we will stop and focus on listing the pros and cons of each side.”
+
+The idea at each Sprint retrospective is to help the team improve as a cohesive unit moving forward. This will totally depend on the team dynamics and every team ends up with different dynamics and different rules/guidelines.

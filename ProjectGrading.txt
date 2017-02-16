@@ -1,0 +1,16 @@
+Project grading
+
+Total project grade is 100 pts. Distributed as follows:
+
+25 pts for Part 1 Project Proposal, Repository, Requirements & Project Tracker + 1 or 2 XC 5 pts for Part 2 Stand-up Meeting
+5 pts for Part 2 Demo to client
+10 pts for Part 2 Retrospective
+10 pts for Part 3 Testing
+15 pts for Part 5 Presentation
+25 pts for Part 6 Final Project submission
+5 pts for Part 7 Team Dynamics interview question
+Peer Evaluation (incorporated as factor of final individual project grade)
+Part 4 Individual interview incorporated into final project individual grade
+Overall effort (worthy of the size of your team) will also affect the grade. If you do not participate throughout in the project then you cannot pass the course. Your level of participation within your group will also affect your final total project grade.
+
+Individual project grade = (sum project parts) * overall effort * individual participation

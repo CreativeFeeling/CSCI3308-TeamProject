@@ -1,0 +1,23 @@
+Part 3 – Testing
+
+Due date
+
+April 6, 2017 at 6:00 pm
+
+The purpose is to create two types of tests for your project:
+
+Automated test cases
+Provide link to the tool you use to automate testing, or explain how to run the automated test cases, or schedule time with the TAs to demonstrate your automated tests.
+Provide a copy of the output showing the results of the automated test cases running.
+User Acceptance Test plans
+
+The purpose of these tests is to have a formatted plan that you could provide to users to go through the steps in using your application and report whether it was successful or not.
+
+Provide at least three test cases formatted similar to the following:
+One member of your team must commit to GitHub a TESTING.md file with the following (in this order):
+
+Who: List of people on the team
+Title: of project
+Vision: from Project Part 1 Proposal
+Automated Tests: Explanation and screenshot (see above)
+User Acceptance Tests: Copy of at least three UAT plans

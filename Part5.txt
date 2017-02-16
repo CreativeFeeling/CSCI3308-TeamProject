@@ -1,0 +1,46 @@
+Part 5 - Presentation
+
+Due date
+
+May 1–5, 2017
+
+The purpose of the presentations is to practice presentation skills, inspire your colleagues, and discuss the challenges you faced and how you got through them.
+
+Your presentation requires all members to be present and standing up front. If you are not present for the presentation you will get a zero for the presentation portion of the project. Each team member must discuss something about the project during the presentation.
+
+You should cover the following items in whatever creative way you wish.
+
+Title of the project
+Names of each person in the group
+All the tools your group used
+Name of the tool, logo, and purpose (e.g., Project Tracking, VCS)
+Your group’s rating on how useful/good this tool/methodology was (ranked 1..5 where 5 stars is best and 1 star is useless)
+Methodologies
+Iterative, Waterfall, Agile, TDD, pair programming, peer code reviews, other…
+Expected tools
+Project Tracker
+VCS Repository
+Database
+Testing
+Auto-documenter
+Deployment environment
+(Optional) Additional tools you may have used
+IDEs (e.g., Eclipse, Code::Blocks, xCode)
+Frameworks (e.g., Laravel, Ruby on Rails, Node.js, Android Studio)
+Hardware (e.g., Raspberry Pi, Arduino)
+Challenges you encountered, and how you overcame them and how it may have affected your original project plans.
+Demo your project
+You only have around 5-7 minutes (exact times announced in lecture) to present! (including setup time). Feel free to practice ensuring your computer hooks up to the projector the week or so beforehand. (Hint: to mirror displays on a mac, press cntrl-f1).
+
+Hint: Because you have a limited amount of time to present, make use of images – remember, a picture says a thousand words! Designing good pictures/infographics can really enhance a presentation! You can show a picture of your repository or project tracker, etc. to show how you made use of the tools. Be sure to use a minimum of 20-point font for all text so everyone can read it.
+
+Presentations should appear as if created by a single person but should clearly demonstrate that all team members were involved. A group or company should always present a unified front to a client/customer/etc. Therefore be sure there is consistency throughout your presentation (theme, colors, fonts, grammar, tense [past/present], etc).
+
+Presentations will be during the last week of classes or so.
+
+Please respect each other: On presentation days, please do not enter or leave the lecture room while a group is in the middle of presenting. Please wait until they finish and the next group starts setting up so as not to disrupt their presentation.
+
+One member of your team must commit to GitHub the following:
+
+Copy of the presentation
+Submit a pdf file named: ProjectTitle_Part_5.pdf or .ppt where ProjectTitle is the name of your project.

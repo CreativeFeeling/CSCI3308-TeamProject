@@ -1,0 +1,41 @@
+Part 6 - Final Submission
+
+Due date
+
+May 4, 2017 at 6:00 pm
+
+This last part will be graded based on the amount of effort, overall project, and use of tools and methodologies throughout the semester.
+
+You must deploy your project and store your project source code, test cases, and documents in GitHub. To submit your project, one member of your team must submit a pdf with the names of everyone in your group and a link to these materials and access permission. The pdf document must have the following in the order provided as a list or table (not an essay!):
+
+Title: of the project
+Who: Names of each person in the group
+Project Tracker:
+Link to your Project Tracker (Liz and TAs have access)
+Screenshot showing your project in your project tracker
+(Optional) Video: 5 minute or less video demonstrating your project. Your audience is a potential customer or person interested in using your product.
+VCS: Link to your VCS Repository (Liz and TAs have access)
+
+We will check to ensure the following are stored in your repository:
+
+Source code (throughout the semester)
+Test cases
+Auto-documenter documents
+Video of demo (optional)
+README.md in GitHub explaining to others what your project is about.
+Project Part 5 document named ProjectTitle_Part6.pdf
+Screenshot of each member’s contributions throughout the semester from GitHub: e.g.,
+Deployment: Link to deployment environment or explain how to access/run.
+Auto-doc: The purpose is to run an auto-documenter on your code base. While Doxygen is very common (and Javadoc is used for Java), you may need (or want) to use another documenter. Make sure you choose a documenter that produces a PDF file or an HTML website.
+List which program you did
+Link to GitHub where the auto-generated docs are
+Note: if you ran the program without adding any comments, you will receive a zero for the Auto-doc part. The purpose is to learn how to write the comments to properly document your code that are picked up by an auto-documenter. We will spot check a portion of your code to ensure it is documented properly.
+
+Be sure to:
+
+Ensure the TAs all have access to all links for grading
+Tag your repo with “Final Submission” (make sure to push your tag to your repo)
+Include a README in your repo:
+Describe repo organization
+Describe where to find and/or how to build the docs o Describe how to build/run/test/etc code
+If using a CI system, provide link to the CI status page
