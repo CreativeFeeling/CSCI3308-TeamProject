@@ -17,20 +17,13 @@ Motivation:
 
 Risks:
 
-
-User Stories: 
-
-  US1: As a player, I want an enjoyable game.
-  
-  US2: As a player, I want to have a game that is easy to learn.
-  
-  US3: As a player, I want to have varying game difficulty to test myself.
-  
-  US4: As a player, I want to have different game modes or characters.
-  
-  US5: As a customer, I want to have replayability in my game.
-  
-  US6: As a developer, I want to produce a fast, bug free game.
+User Stories:   
+  US1: As a player, I want an enjoyable game.   
+  US2: As a player, I want to have a game that is easy to learn.    
+  US3: As a player, I want to have varying game difficulty to test myself.  
+  US4: As a player, I want to have different game modes or characters.  
+  US5: As a customer, I want to have replayability in my game.  
+  US6: As a developer, I want to produce a fast, bug free game. 
 
 
 
