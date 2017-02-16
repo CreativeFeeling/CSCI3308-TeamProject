@@ -14,6 +14,7 @@ Risks:
 
 User Stories: 
   US1: As a player, I want an enjoyable game.
+  
   US2: As a player, I want to have a game that is easy to learn.
   US3: As a player, I want to have varying game difficulty to test myself.
   US4: As a player, I want to have different game modes or characters.
