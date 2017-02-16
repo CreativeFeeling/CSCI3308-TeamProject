@@ -2,7 +2,7 @@
 
 Who: The collaborators on this project are Kelsey Adams, Jacob Munoz, Nick Lopinski, Andrew Fay, and Sabrina Kavesh.
 
-Title:
+Title: Chubby's Steakhouse
 
 Description:
 
@@ -11,6 +11,15 @@ Vision Statement:
 Motivation:
 
 Risks:
+
+User Stories: 
+  US1: As a player, I want an enjoyable game.
+  US2: As a player, I want to have a game that is easy to learn.
+  US3: As a player, I want to have varying game difficulty to test myself.
+  US4: As a player, I want to have different game modes or characters.
+  US5: As a customer, I want to have replayability in my game.
+  US6: As a developer, I want to produce a fast, bug free game.
+
 
 Methodology: Which methodology you plan to follow, though it may change: Waterfall, iterfall, Agile, mash-up of … 
 
