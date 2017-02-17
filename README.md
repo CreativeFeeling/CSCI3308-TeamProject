@@ -36,6 +36,4 @@ Methodology: Which methodology you plan to follow, though it may change: Waterfa
 
 Project Tracking software: We will be using trello.
 
-Link to project tracking software: https://trello.com/b/ZnbGGesB
-
-Project plan: created from your Project Tracking software. Copy-paste the plan (or screenshot of) from your project tracking software into the repository.
+Link to project plan: https://trello.com/b/ZnbGGesB
