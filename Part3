@@ -1,0 +1,102 @@
+Who: Kelsey Adams, Andrew Fay, Jacob Munoz, Nick Lopinski, Sabrina Kavesh
+Title: Choobee's 
+Vision: "Create a fun yet challenging game that gives some insight into what a real server goes through."
+Automated Tests: 
+
+
+User Acceptance Tests: 
+
+
+  Use case name
+      Using WASD keys moves charater
+Description
+    Test the movement of player
+Pre-conditions
+    Unity scene sucessfully loads
+Test steps
+    1. Build beta level scene 
+    2. Press W key 
+    3. Press A key
+    4. Press S key
+    5. Press D key
+Expected result
+    User should move character forward, left, backwards, then right
+Actual result
+  player's camera moves to show the character game object has moved
+Status (Pass/Fail)
+    Pass
+Notes
+    N/A
+Post-conditions
+    Player should be still and unmoving after button presses   
+    
+    Use case name
+    Pick up ridgid objects using crosshair
+Description
+    Test if player can pickup certain objects such as a cup
+    Pre-conditions
+    Player's movement and view is working along with all involved box colliders and crosshair is visible
+Test steps
+    1. Build betalevel scene
+    2. Move character over to the table with a cup
+    3. get close to cup
+    4. Click the cup with left mouse button
+Expected result
+    Cup should be in the position of the crosshair of the Player and stay in this position if mouse is moved causing camera movement
+Actual result
+    Cup is seemingly held by the Player and doesn't change rotation
+Status (Pass/Fail)
+    Pass
+Notes
+    N/A
+Post-conditions
+    Player can move through scene with cup on the cross hair
+    
+    
+   Use case name
+    Removal of waiting customers from bench
+Description
+    Test if pressing E next to waiting customers removes them from the bench
+Pre-conditions
+    Scene builds customers have spawned
+Test steps
+    1. Build the betalevel 
+    2. Walk over to a bench with waiting customers
+    3. Press E when the overlay shows up
+    4. (optional) walk over to the booth farthest away from waiting area
+    5. (optional) get close to the table
+Expected result
+    Customers should disappear after E is pressed
+Actual result
+    Customer game objects are cloned then moved outside of the map then reseated at the booth when player comes close enough
+Status (Pass/Fail)
+    Pass
+Notes
+    N/A
+Post-conditions
+    Customers are seated at the booth Player is able to pick up another bench of customers but cannot seat at the seated booth
+    
+    
+    
+Use case name
+    Verify machine labels appear above the respective machine
+Description
+    Test rotation and placement of machine labels
+Pre-conditions
+    Scene builds
+Test steps
+    1. Build scene
+    2. Walk toward the kitchen
+    3. Walk pass the machines in the back
+
+Expected result
+    Soda, Iced Tea, and Water should appear above the machines and rotate to face the player
+Actual result
+    hitboxes register that the player is close a canvas displays text and the rotation of text is the same as player's making it seem to follow the players
+    position
+Status (Pass/Fail)
+    Pass
+Notes
+    N/A
+Post-conditions
+    When player walks far away enough the text disappears and reappears when near again
